@@ -4,7 +4,7 @@ In this project, I implemented twelve different sorting algorithms.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files. Provided by ALX Holberton School..
 
 ## Helper Files :raised_hands:
 
